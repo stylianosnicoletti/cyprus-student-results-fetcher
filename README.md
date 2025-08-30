@@ -1,4 +1,4 @@
-# Student Results Fetcher
+# Cyprus Student Results Fetcher
 
 This Python script allows students to easily search and view their exam results from the Cyprus Ministry of Education DevExpress ASP.NET GridView system. Results are displayed in the terminal and saved in a JSON file for each query.
 
