@@ -3,7 +3,7 @@
 This Python script allows students to easily search and view their exam results from the Cyprus Ministry of Education DevExpress ASP.NET GridView system. Results are displayed in the terminal and saved in a JSON file for each query.
 
 ## Features
-- Search results by student ID and year (2018 to next year)
+- Search results by student ID and year (2018 to current year)
 - Saves parsed results in a readable JSON file
 - Validates input for allowed year and student ID range
 
